@@ -2,22 +2,8 @@
 I am going to create your own learning resource, that could be used to teach a novice about any one of the concepts you’ve learned about in this course.
 This is the assignment for the course to be peer-reviewed.
 
-## Lesson plan on functions. KS3
+There are two folders called `documents` and `source`.
 
-This lesson will cover the basics of function writing.
+You will find the lesson plan and any other written information in documents and some code examples in the source folder. I encourage you to take the examples and chnage, add or modify to your convenience.
 
-| Date  | Class | Lesson |
-|-------|-------------|------|
-| 26 Aug 2019 | ICT Year 8  | Functions Basics |
-
-### Context of the lesson ###
-
-### Measurable Objectives for this Lesson ###
-
-### Teacher Activities ###
-
-### Student Activities ###
-
-### Review Summary ###
-
-### Materials Required ###
+Documents are coded in markdown as it is this README file. 
