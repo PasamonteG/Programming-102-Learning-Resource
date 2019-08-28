@@ -34,7 +34,7 @@ The activities proposed are mixed for the teacher and the students.
 | **Teacher explanation.** Formal description of functions with working examples. Directly code them on screen or explain already coded examples. This explanation must be adjusted to the level of the class. |5 mins  
 | **Student Task.** Build some programs with functions. You will need to provide a sheet or equivalent (projection or handwritten list on whiteboard...) with some exercises to be done (p.e. [Python functions - Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/python-functions-exercises.php).) This can be done individually or in couples.  | No time limit |
 
-The teacher must manage the level of complexity in the last activity according to the course (Y7,Y8 or Y9). Both last activities can spread in more than one class, also depending on the depth of the subject.
+The teacher must manage the level of complexity in the last activity according to the course (Y7, Y8 or Y9). Both last activities can spread in more than one class, also depending on the depth of the subject.
 
 ## Review ##
 **Student task.**  Ask some students to show their work (better if they can project) and make them run the programs they have coded. Keep some discussion on how the work has been done and the difficulties they have found.
