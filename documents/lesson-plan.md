@@ -36,7 +36,7 @@ The activities proposed are mixed for the teacher and the students.
 
 The teacher must manage the level of complexity in the last activity according to the course (Y7,Y8 or Y9). Both last activities can spread in more than one class, also depending on the depth of the subject.
 
-## Review##
+## Review ##
 **Student task.**  Ask some students to show their work (better if they can project) and make them run the programs they have coded. Keep some discussion on how the work has been done and the difficulties they have found.
 
 ## Materials Needed for the Class##
