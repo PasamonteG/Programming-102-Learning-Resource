@@ -31,7 +31,7 @@ The activities proposed are mixed for the teacher and the students.
 |------|--------|
 | **Starter.** Introduce functions as tasks. Explain the role of functions in programs.  | 5 - 10 mins |
 | **Student discussion.** Let the students search some examples of real world activities that could be modelled as functions. |5 mins|
-| **Teacher explanation.** Formal description of functions with working examples. Directly code them on screen or explain already coded examples. This explanation must be adjusted to the level of the class. |5 mins  
+| **Teacher explanation.** Formal description of functions with working examples. Directly code them on screen or explain already coded examples. This explanation must be adjusted to the level of the class. Some [video](https://www.youtube.com/watch?v=9Os0o3wzS_I) could be used but it would take more time, you'll need to adjust the class timing. |5 mins  
 | **Student Task.** Build some programs with functions. You will need to provide a sheet or equivalent (projection or handwritten list on whiteboard...) with some exercises to be done (p.e. [Python functions - Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/python-functions-exercises.php).) This can be done individually or in couples.  | No time limit |
 
 The teacher must manage the level of complexity in the last activity according to the course (Y7, Y8 or Y9). Both last activities can spread in more than one class, also depending on the depth of the subject.
