@@ -6,7 +6,7 @@ This lesson will cover the basics of function writing in Python.
 |-------------|------|
 |ICT Year 7/8/9  | Functions Basics |
 
-## Lesson Summary##
+## Lesson Summary ##
 This lesson on Python functions could be adapted for any KS3 course making it more or less advanced depending on the level of the class.
 
 Writing functions in any programming language is essential to develop an understanding of how software works.
