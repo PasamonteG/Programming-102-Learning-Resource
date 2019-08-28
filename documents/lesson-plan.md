@@ -22,9 +22,20 @@ _Most students will_ be able to use several functions in the same program to get
 
 _Some students will_ be able to recognise what parts of a program are candidates to be recoded as a function.
 
-## Teacher Activities ##
+## Activities ##
+Timings are approximate and subject to the complexity of the examples used. They depend much on the level of the class.
 
-## Student Activities ##
+The activities proposed are mixed for the teacher and the students.  
+
+| Activity | Time Required |
+|------|--------|
+| **Starter.** Introduce functions as tasks. Explain the role of functions in programs.  | 5 - 10 mins |
+| **Student discussion.** Let the students search some examples of real world activities that could be modelled as functions. |10 mins|
+| **Teacher explanation.** Formal description of functions with working examples. Directly code them on screen or explain already coded examples.
+| **Task.** Build some programs with functions. | No time limit |
+|
+
+
 
 ## Review Summary ##
 
