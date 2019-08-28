@@ -39,5 +39,5 @@ The teacher must manage the level of complexity in the last activity according t
 ## Review ##
 **Student task.**  Ask some students to show their work (better if they can project) and make them run the programs they have coded. Keep some discussion on how the work has been done and the difficulties they have found.
 
-## Materials Needed for the Class##
+## Materials Needed for the Class ##
 Computers with Python installed, Python IDE to make testing easier, whiteboard or sheets for the students to be able to sketch their ideas.
